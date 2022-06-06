@@ -1,0 +1,1 @@
+Atividades realizadas durante o 3º semestre da disciplina de Estrutura de Dados, na Universidade da Amazônia – UNAMA.
